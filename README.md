@@ -1,6 +1,6 @@
 # Laundry Pickup System.
 
-A software engineering term project: full requirements analysis, system design, and architecture for a laundry pickup and delivery platform connecting customers, laundry staff, and an external delivery provider.
+A software engineering project: full requirements analysis, system design, and architecture for a laundry pickup and delivery platform connecting customers, laundry staff, and an external delivery provider.
 
 ## Overview
 
