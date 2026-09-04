@@ -29,7 +29,7 @@ The work spans the complete engineering process, from gathering and specifying r
 **Concepts & Tools:**
 - Requirements Engineering (Functional & Non-Functional)
 - System Analysis & Design
-- UML Modeling — Context, Class, Sequence, and Activity Diagrams
+- UML Modeling Context, Class, Sequence, and Activity Diagrams
 - Client-Server Architecture
 
 **My Contribution:**
